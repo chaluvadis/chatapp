@@ -26,3 +26,5 @@ Okta values.
 
 To see how this app works and how to set it up, please check out this tutorial
 on scotch.io where I explain in detail how to get setup and running: 
+
+https://developer.okta.com/blog/2018/05/08/build-video-chat-app-with-javascript-webrtc-and-okta
